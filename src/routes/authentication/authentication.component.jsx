@@ -13,7 +13,7 @@ const Authentication = () => {
              <SignInForm />
 
             <SignUpForm />
-        </div>
+        </div> 
     );
 }
 
